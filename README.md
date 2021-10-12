@@ -12,7 +12,7 @@
   <img align="center" alt="Mael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Mael-pic" height="150" style="border-radius:50px;"
+  <img align="right" alt="Mael-pic" height="150" style="border-radius:50px;" src=https://i.kym-cdn.com/photos/images/newsfeed/001/222/873/6e7.gif>
 </div>
   
    ##
