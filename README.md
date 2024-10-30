@@ -8,7 +8,12 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelgabrieldev&layout=compact&langs_count=6&theme=jolly"/>
 </div>
 
-<div style="display: inline_block"><br>
+
+<h2 style="display: inline_block">
+ <img alt="skills" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/10255/10255704.png" >Skills :
+</h2>
+
+<div style="display: inline_block">
   <img align="center" alt="Mael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,7 +22,7 @@
   <img align="center" alt="Mael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Mael-pic" height="220" style="border-radius:50px;" src=https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15193b8e-35ba-4352-a514-f20c810de60b/dd2s5zj-05d07d11-69bf-4f8c-8578-544a5e689351.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE1MTkzYjhlLTM1YmEtNDM1Mi1hNTE0LWYyMGM4MTBkZTYwYlwvZGQyczV6ai0wNWQwN2QxMS02OWJmLTRmOGMtODU3OC01NDRhNWU2ODkzNTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.z5poBh246sY0eagiRTcc7HbztzCbTrxVEmB_RyB9ZhE>
 </div>
-  
+
    ##
  
 <div> 
