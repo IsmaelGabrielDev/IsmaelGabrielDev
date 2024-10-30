@@ -1,9 +1,13 @@
 ## Hello, I'm Ismael Gabriel, creator of Projects, future  Software Quality and Dev Engineer!
+ <div align="center">
+   <img width="500" src="https://github-profile-trophy.vercel.app/?username=ismaelgabrieldev&column=4&theme=dracula&rank=A,B,C"/>
+ </div><br>
+  
 <div align="center">
-  <a href="https://github.com/ismaelgabrieldev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismaelgabrieldev&show_icons=true&theme=jolly&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelgabrieldev&layout=compact&langs_count=6&theme=jolly"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelgabrieldev&show_icons=true&theme=jolly&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelgabrieldev&layout=compact&langs_count=6&theme=jolly"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Mael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
