@@ -23,14 +23,16 @@
 </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cs,cpp,nodejs,py&theme=dark)](https://skillicons.dev)
-#
+# 
  
 <h2 style="display: inline_block">
 <img alt="Skills Tools" height="33" width="43" src="https://cdn-icons-png.flaticon.com/128/868/868676.png" > Skills Programs and Tools:
 </h2>
 
-![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,figma,discord,gmail,git,github,bash,gitlab,gherkin,cypress,postman,jenkins,docker,npm,androidstudio,java,selenium,mysql,sqlite,electron,powershell&theme=light)
- #
+![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,figma,discord,gmail,git,github,bash,gitlab,gherkin,cypress,postman,jenkins,docker,npm,androidstudio,java,selenium,mysql,sqlite,electron,powershell&theme=light) 
+<img align="right" alt="Mael-pic"  width="250px" height="150px" src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gif">
+ # 
+ 
  
 <div>
   <a href="https://instagram.com/ismaelgabrieldossantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
