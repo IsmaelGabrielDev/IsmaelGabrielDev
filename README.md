@@ -1,12 +1,11 @@
-### 👀 Hello everybody 👋, I'm Ismael Gabriel :octocat:, and welcome to my GitHub 😉 🎉!
-#
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B658F7FF&height=120&section=header"/>
 
- 📚 I'm QA and student Software Analysis and Development. 🎒🎓
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B658F7FF&size=35&center=true&vCenter=true&width=1000&lines=👀+Hello+everybody+👋;✌️I'm+Ismael+Gabriel,👴+and+I'm+24+years+old+🌱;📚+I'm+student+Software+Quality+Engineer+🎓;📚+and+Full+Stack+Developer+🎒;💖+Welcome+to+my+GitHub+😉+🎉+🎊!)](https://git.io/typing-svg) 
+
+ #
  
- - 🌱 I'm constantly growing.
- - 💖 Passionate about music and games.
- - 📬 This is my email:  ismaelgabriel31@gmail.com
-#
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=1100&vCenter=true&background=DD42FF1F&color=B658F7&width=1100&lines=✔️+🌱+I'm+constantly+growing.;✔️+💖+Passionate+about+music+and+games.;✔️+📬+This+is+my+email:+ismaelgabriel31@gmail.com)](https://git.io/typing-svg)
+ 
 
  <div align="center">
    <img width="560" src="https://github-profile-trophy.vercel.app/?username=ismaelgabrieldev&column=5&theme=dracula&rank=A,B,C"/>
