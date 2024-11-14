@@ -41,7 +41,11 @@
  
   ![Snake animation](https://github.com/ismaelgabrieldev/ismaelgabrieldev/blob/output/github-contribution-grid-snake.svg)
 
-
 </div>
+<br>
+<div align="center">
+ <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FIsmaelGabrielDev&s=50&c=9611b0&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=">
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B931F7FF&height=135&section=footer"/>
