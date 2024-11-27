@@ -8,8 +8,9 @@
  
 
  <div align="center">
-   <img width="560" src="https://github-profile-trophy.vercel.app/?username=ismaelgabrieldev&column=5&theme=dracula&rank=A,B,C"/>
- </div><br>
+   <img width="520" src="https://github-profile-trophy.vercel.app/?username=ismaelgabrieldev&column=4&theme=dracula&rank=A,B,C"/>
+ </div>
+ <br>
   
 <div align="center">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelgabrieldev&show_icons=true&theme=jolly&count_private=true"/>
