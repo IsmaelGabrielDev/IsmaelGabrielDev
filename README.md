@@ -30,8 +30,10 @@
 </h2>
 
 ![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,sublime,figma,git,github,bash,gitlab,ubuntu,gherkin,cypress,jest,postman,jenkins,docker,django,npm,androidstudio,java,selenium,mysql,sqlite,mongodb,electron,nextjs,powershell&theme=light) 
-<img align="right" alt="Mael-pic"  width="300px" height="150px" src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gif">
+
  # 
+
+ <img align="right" alt="Mael-pic"  width="300px" height="150px" src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gif">
  
  
 <div>
