@@ -7,14 +7,11 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&vCenter=true&background=DD42FF1F&color=B658F7&width=1100&lines=✔️+🌱+I'm+constantly+growing.;✔️+💖+Passionate+about+music+and+games.;✔️+📬+This+is+my+email:+ismaelgabriel31@gmail.com)](https://git.io/typing-svg)
  
 
- <div align="center">
-   <img width="520" src="https://github-profile-trophy.vercel.app/?username=ismaelgabrieldev&column=4&theme=dracula&rank=A,B,C"/>
- </div>
  <br>
   
 <div align="center">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelgabrieldev&show_icons=true&theme=jolly"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelgabrieldev&layout=compact&langs_count=9&hide=html&theme=jolly"/>
+  <img height="250em" align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelgabrieldev&show_icons=true&theme=jolly"/>
+  <img height="250em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelgabrieldev&layout=compact&langs_count=9&hide=html&theme=jolly"/>
 </div>
 
 
@@ -45,10 +42,5 @@
   ![Snake animation](https://github.com/ismaelgabrieldev/ismaelgabrieldev/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-<br>
-<div align="center">
- <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FIsmaelGabrielDev&s=50&c=9611b0&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=">
-</div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B931F7FF&height=135&section=footer"/>
