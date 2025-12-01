@@ -9,8 +9,8 @@
 
  <br>
 <div align="center">
-  <img height="300em" align="center" src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gif"/>
-  <img height="300em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelgabrieldev&layout=compact&langs_count=9&hide=html&theme=jolly"/>
+  <img height="250em" align="center" src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gif"/>
+  <img height="250em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelgabrieldev&layout=compact&langs_count=9&hide=html&theme=jolly"/>
 </div>
 
 
