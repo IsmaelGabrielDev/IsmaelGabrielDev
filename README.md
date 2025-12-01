@@ -8,10 +8,9 @@
  
 
  <br>
-  
 <div align="center">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=ismaelgabrieldev&show_icons=true&theme=jolly"/>
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelgabrieldev&layout=compact&langs_count=9&hide=html&theme=jolly"/>
+  <img height="300em" align="center" src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gif"/>
+  <img height="300em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelgabrieldev&layout=compact&langs_count=9&hide=html&theme=jolly"/>
 </div>
 
 
@@ -28,10 +27,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,sublime,figma,git,github,bash,gitlab,ubuntu,gherkin,cypress,jest,postman,jenkins,docker,django,npm,androidstudio,java,selenium,mysql,sqlite,mongodb,electron,nextjs,powershell&theme=light) 
 
- # 
-
- <img align="right" alt="Mael-pic"  width="300px" height="150px" src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gif">
- 
+ #
  
 <div>
   <a href="https://instagram.com/ismaelgabrieldossantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
